@@ -3,5 +3,5 @@ import { test } from "node:test";
 import { foo } from "../dist/index.js";
 
 await test("sanity check", async () => {
-    assert.strictEqual(foo(), "hello world");
-})
+  assert.strictEqual(foo(), "hello world");
+});
