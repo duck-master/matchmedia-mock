@@ -14,8 +14,11 @@
   "author": "duck-master",
   "type": "module",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^9.34.0",
+    "prettier": "^3.6.2",
+    "typescript": "5.4.x"
+  },
   "scripts": {
     "test": "node --test"
   }
