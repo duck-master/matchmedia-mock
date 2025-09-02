@@ -1,0 +1,22 @@
+{
+  "name": "matchmedia-mock",
+  "version": "1.0.0",
+  "description": "library to mock window.matchMedia",
+  "homepage": "https://github.com/duck-master/matchmedia-mock#readme",
+  "bugs": {
+    "url": "https://github.com/duck-master/matchmedia-mock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duck-master/matchmedia-mock.git"
+  },
+  "license": "MIT",
+  "author": "duck-master",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --test"
+  }
+}
